@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NagendraHK
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning REact.js
 - 💞️ I’m looking to collaborate on UI Development
 - 📫 How to reach me naga.nagendra99@gmail.com
 
